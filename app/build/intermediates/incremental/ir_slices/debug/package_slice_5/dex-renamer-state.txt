@@ -1,4 +1,4 @@
-#Mon Jan 07 01:03:59 AMST 2019
-base.0=D\:\\Curso Android Studio\\CalculadoraAPP-master\\CalculadoraAPP-master\\Calculadora APP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Fri Jan 25 13:54:10 AMST 2019
+base.0=C\:\\ProjetosAndroidStudio\\CalculadoraAPP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex
